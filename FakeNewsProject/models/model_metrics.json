@@ -1,0 +1,23 @@
+{
+  "best_model": "Logistic Regression",
+  "metrics": {
+    "Logistic Regression": {
+      "accuracy": 0.8,
+      "precision": 0.6667,
+      "recall": 1.0,
+      "f1": 0.8
+    },
+    "Naive Bayes": {
+      "accuracy": 0.8,
+      "precision": 0.6667,
+      "recall": 1.0,
+      "f1": 0.8
+    },
+    "Random Forest": {
+      "accuracy": 0.8,
+      "precision": 0.6667,
+      "recall": 1.0,
+      "f1": 0.8
+    }
+  }
+}
